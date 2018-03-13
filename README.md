@@ -1,0 +1,2 @@
+# GOCZ
+GrafikOnline.cz
